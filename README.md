@@ -1,4 +1,4 @@
-# 2022 Spring Semester NYCU-data-sturctures-and-oop
+# 2022 Spring Semester NYCU Data Sturctures and Object-Oriented Programming
 >Instructor:詹力韋
 
 ## Table of Contents
@@ -20,3 +20,17 @@
 	<tr><th>week14</th><td>Laboratory</td></tr>
 	<tr><th>week15</th><td>Divide and conquer algorithms</td></tr>
 </table>
+
+## LABs
+- 2 ~ 4 problems on hackerrank every week.
+- OOP : lab1 ~ lab4.
+- Algorithm/Data Structures : lab5 ~ lab8.
+
+## HW1 Dungeon
+- Use C++ OOP to implement text-based RPG Game Project.
+- [Project implementation](https://github.com/HaKkaz/NYCU-data-sturctures-and-oop/tree/main/HW1_Dungeon).
+- [HW1 spec](https://github.com/HaKkaz/NYCU-data-sturctures-and-oop/blob/main/HW1_Dungeon/%5BDungeon%5D%20Spec.pdf).
+
+## HW2 Algorithm Report
+- Use C++ implement shortest path algorithms Dijkstra and Bellman-Ford.
+- [HW2 spec](https://github.com/HaKkaz/NYCU-data-sturctures-and-oop/blob/main/HW2_Algorithm/HW2_spec.pdf)
